@@ -1,0 +1,17 @@
+#fu{
+	width: 400px;
+	height: 250px;
+	background-color: blue;
+	position: relative;
+	padding-top: 50px;
+}
+#zi1{
+	width: 150px;
+	height: 100px;
+	background-color: pink;
+	/*position: absolute;
+	top: 50px;*/
+	position: relative;
+	top: 50px;
+}
+

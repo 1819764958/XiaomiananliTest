@@ -1,0 +1,18 @@
+#id1{
+	width: 300px;
+	height: 200px;
+	background-color: gray;
+	position: relative;
+	top: 20px;
+	left: 20px;
+	padding: 20px;
+}
+
+.id2{
+	width: 200px;
+	height: 100px;
+	background-color: blue;
+	position: relative;
+	left: 200px;
+	top: 100px;
+}

@@ -1,0 +1,105 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.product{
+	margin: 100px;
+	width: 225px;
+	height: 362px;
+	background-color: #ccc;
+	position: relative;
+}
+.product img{
+	width: 222px;
+	height: 220px;
+}
+.product p{
+	color:#F40;
+	font-weight: 700; 
+	position: absolute;
+	top: 235px;
+	left: 8px;
+}
+.product .icon{
+	width: 27px;
+	height: 14px;
+	background-image: url(img/taobao2.png);
+	background-repeat: no-repeat;
+	background-position: -5px -140px;
+	position: absolute;
+	top: 239px;
+    left: 86px;
+}
+.product .fukuan{
+	font-size: 12px;
+	color: gray;
+	position: absolute;
+	top: 239px;
+	right: 8px;
+}
+.product .title{
+	font-size: 10px;
+	color: black;
+	font-weight: 0px;
+}
+.product .xiaozi a{
+	height: 32px;
+	position: absolute;
+	top: 265px;
+	left: 8px;
+	font-size: 12px;
+	color: #3d3d3d;
+	text-decoration: none;
+}
+.product .xiaozi a:hover{
+	color: #F40;
+	text-decoration: underline;
+}
+
+.product .tiao{
+	position: absolute;
+	top: 308px;
+	left: 8px;
+}
+.product .tiao li{
+	list-style-type: none;
+	width: 12px;
+	height: 2px;
+	background-color: #F40;
+	margin-bottom: 2px;
+}
+.product .spant{
+	position: absolute;
+	top: 304px;
+	left: 24px;
+	font-size: 12px;
+	font-weight: 550;
+	color: #9e9e9eeb; 
+}
+
+.product .spanth{
+	position: absolute;
+	top: 304px;
+	right: 14px;
+	font-size: 12px;
+	color: gray; 
+}
+.product .dibutu{
+	width: 48px;
+	height: 16px;
+	position: absolute;
+	top: 335px;
+	left: 6px;
+	background-image: url(img/taobao2.png);
+	background-position: -8px -87px;
+
+}
+.product .youdibu{
+	width: 16px;
+	height: 16px;
+	background-image: url(img/taobao3.png);
+	background-position: -437px -86px;
+	position: absolute;
+	top: 337px;
+	right: 8px;
+}
